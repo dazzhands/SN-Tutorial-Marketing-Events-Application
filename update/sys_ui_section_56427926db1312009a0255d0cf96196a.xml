@@ -5,13 +5,13 @@
             <element>type</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-05-13 05:50:53</sys_created_on>
-            <sys_id>04d2f166db1312009a0255d0cf9619e9</sys_id>
+            <sys_created_on>2016-05-23 04:55:24</sys_created_on>
+            <sys_id>7c0609fddb6312009a0255d0cf9619cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_50464_marketing_equipment_request" sys_domain="global" view="Default view">56427926db1312009a0255d0cf96196a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-05-13 05:50:53</sys_updated_on>
+            <sys_updated_on>2016-05-23 04:55:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,69 +19,83 @@
             <element>cost</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-05-13 05:50:53</sys_created_on>
-            <sys_id>84d2f166db1312009a0255d0cf9619e9</sys_id>
+            <sys_created_on>2016-05-23 04:55:24</sys_created_on>
+            <sys_id>fc0609fddb6312009a0255d0cf9619cd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_50464_marketing_equipment_request" sys_domain="global" view="Default view">56427926db1312009a0255d0cf96196a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-05-13 05:50:53</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>.split</element>
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-05-13 05:50:53</sys_created_on>
-            <sys_id>08d2f166db1312009a0255d0cf9619e9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_50464_marketing_equipment_request" sys_domain="global" view="Default view">56427926db1312009a0255d0cf96196a</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-05-13 05:50:53</sys_updated_on>
-            <sys_user/>
-            <type>.split</type>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>needed_from</element>
-            <position>3</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-05-13 05:50:53</sys_created_on>
-            <sys_id>88d2f166db1312009a0255d0cf9619e9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_50464_marketing_equipment_request" sys_domain="global" view="Default view">56427926db1312009a0255d0cf96196a</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-05-13 05:50:53</sys_updated_on>
-            <sys_user/>
-            <type/>
-        </sys_ui_element>
-        <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>needed_until</element>
-            <position>4</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-05-13 05:50:53</sys_created_on>
-            <sys_id>0cd2f166db1312009a0255d0cf9619e9</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_ui_formatter/>
-            <sys_ui_section caption="NULL" display_value="" name="x_50464_marketing_equipment_request" sys_domain="global" view="Default view">56427926db1312009a0255d0cf96196a</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-05-13 05:50:53</sys_updated_on>
+            <sys_updated_on>2016-05-23 04:55:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>marketing_event</element>
-            <position>5</position>
+            <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2016-05-13 05:50:53</sys_created_on>
-            <sys_id>8cd2f166db1312009a0255d0cf9619e9</sys_id>
+            <sys_created_on>2016-05-23 04:55:24</sys_created_on>
+            <sys_id>700609fddb6312009a0255d0cf9619ce</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_50464_marketing_equipment_request" sys_domain="global" view="Default view">56427926db1312009a0255d0cf96196a</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2016-05-13 05:50:53</sys_updated_on>
+            <sys_updated_on>2016-05-23 04:55:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-23 04:55:24</sys_created_on>
+            <sys_id>f00609fddb6312009a0255d0cf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_50464_marketing_equipment_request" sys_domain="global" view="Default view">56427926db1312009a0255d0cf96196a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-23 04:55:24</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>needed_from</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-23 04:55:24</sys_created_on>
+            <sys_id>740609fddb6312009a0255d0cf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_50464_marketing_equipment_request" sys_domain="global" view="Default view">56427926db1312009a0255d0cf96196a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-23 04:55:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>needed_until</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-23 04:55:24</sys_created_on>
+            <sys_id>f40609fddb6312009a0255d0cf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_50464_marketing_equipment_request" sys_domain="global" view="Default view">56427926db1312009a0255d0cf96196a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-23 04:55:24</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>approval</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2016-05-23 04:55:24</sys_created_on>
+            <sys_id>780609fddb6312009a0255d0cf9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_50464_marketing_equipment_request" sys_domain="global" view="Default view">56427926db1312009a0255d0cf96196a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2016-05-23 04:55:24</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
