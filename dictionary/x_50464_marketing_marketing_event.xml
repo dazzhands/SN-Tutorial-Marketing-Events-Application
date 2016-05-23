@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="Marketing Event" max_length="40" name="x_50464_marketing_marketing_event" type="collection">
+    <element attributes="live_feed=true" label="Marketing Event" max_length="40" name="x_50464_marketing_marketing_event" type="collection">
         <element default="0" label="Budget" max_length="40" name="budget" type="currency"/>
         <element choice="1" label="City" max_length="40" name="city" type="choice">
             <choice>
